@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyName>RxTelegram.Bot.Examples.HelloWorld</AssemblyName>
+        <RootNamespace>RxTelegram.Bot.Examples.HelloWorld</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RxTelegram.Bot" Version="0.0.6" />
+      <PackageReference Include="System.Reactive.Core" Version="4.4.1" />
+    </ItemGroup>
+
+</Project>
