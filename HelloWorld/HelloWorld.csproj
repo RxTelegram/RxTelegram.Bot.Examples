@@ -2,14 +2,14 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net7.0</TargetFramework>
         <AssemblyName>RxTelegram.Bot.Examples.HelloWorld</AssemblyName>
         <RootNamespace>RxTelegram.Bot.Examples.HelloWorld</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="RxTelegram.Bot" Version="1.0.0" />
-      <PackageReference Include="System.Reactive.Core" Version="4.4.1" />
+      <PackageReference Include="RxTelegram.Bot" Version="6.7.0" />
+      <PackageReference Include="System.Reactive.Core" Version="6.0.0" />
     </ItemGroup>
 
 </Project>
