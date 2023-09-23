@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="RxTelegram.Bot" Version="6.8.0" />
+      <PackageReference Include="RxTelegram.Bot" Version="6.9.0" />
       <PackageReference Include="System.Reactive.Core" Version="6.0.0" />
     </ItemGroup>
 
