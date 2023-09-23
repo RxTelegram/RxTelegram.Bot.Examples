@@ -11,5 +11,5 @@
   ],
   "ignoreTests": true,
   "dependencyDashboard": false,
-  "platformAutomerge": false
+  "platformAutomerge": true
 }
