@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveFiles", "ReceiveFile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineKeyboard", "InlineKeyboard\InlineKeyboard.csproj", "{1ACB1B77-69E4-435A-B0F8-7783B143D6D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateReceiver", "UpdateReceiver\UpdateReceiver.csproj", "{5B8E5434-8F33-4A70-AE9F-5145E2CFD725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{1ACB1B77-69E4-435A-B0F8-7783B143D6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ACB1B77-69E4-435A-B0F8-7783B143D6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ACB1B77-69E4-435A-B0F8-7783B143D6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8E5434-8F33-4A70-AE9F-5145E2CFD725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8E5434-8F33-4A70-AE9F-5145E2CFD725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8E5434-8F33-4A70-AE9F-5145E2CFD725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8E5434-8F33-4A70-AE9F-5145E2CFD725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
